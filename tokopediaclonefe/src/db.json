@@ -1,0 +1,8 @@
+{
+    "videos": [
+        {"id": 1, "vidUrl": "https://youtu.be/E_W1EI7uSPY"},
+        {"id": 2, "vidUrl": "https://youtu.be/zxJIaG5JRe8"},
+        {"id": 3, "vidUrl": "https://youtu.be/N-uaqc66uTU"}
+    ]
+
+}

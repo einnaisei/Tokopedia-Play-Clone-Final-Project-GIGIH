@@ -1,4 +1,4 @@
-# TokopediaPlay-Midterm-Gigih
+https://github.com/einnaisei/Tokopedia-Play-Clone-Final-Project-GIGIH-2
 
 **Installation**
 npm install
@@ -16,3 +16,4 @@ db.mongoose.connect(db.url, mongooseConfig)
     console.log(`failed to connect ${error.message}`),
     process.exit()
     };
+
